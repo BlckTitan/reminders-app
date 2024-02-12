@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      Header
+      <button className="btn btn-primary">Click me!</button>
     </div>
   );
 }
